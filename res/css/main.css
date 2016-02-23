@@ -1,0 +1,13 @@
+body{
+    font-family: 'Architects Daughter', cursive;
+    background:url('http://punkpaper.propagande.org/Papers/Ramones09.jpg') no-repeat;
+}
+.linear{
+    list-style:none;
+}
+
+.linear li {
+    display: inline-block;
+    margin:8px;
+    font-size: 20px;
+}
